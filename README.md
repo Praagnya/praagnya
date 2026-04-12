@@ -18,6 +18,6 @@ I work on **RAG**, **multi-agent** systems, and **applied NLP** (healthcare QA &
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=praagnya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8e4dc&icon_color=e07a5f)
+[![GitHub](https://img.shields.io/badge/GitHub-@praagnya-181717?style=flat&logo=github&logoColor=white)](https://github.com/praagnya)
 
 </div>
