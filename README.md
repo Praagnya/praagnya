@@ -4,7 +4,7 @@
 
 ## Pragnya Narasimha
 
-**AI engineer** · RAG, agents & NLP · **M.S. Data Science** @ University of Arizona · Tucson, AZ
+**AI engineer** · RAG, Agents & NLP · **M.S. Data Science** @ University of Arizona · Tucson, AZ
 
 [LinkedIn](https://www.linkedin.com/in/praagnya) · [Email](mailto:pnarasimha@arizona.edu) · [Website](https://praagnya.github.io)
 
