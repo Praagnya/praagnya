@@ -8,11 +8,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/praagnya) · [Email](mailto:pnarasimha@arizona.edu) · [Website](https://praagnya.github.io)
 
-**AI Engineer** who builds and ships **RAG** systems, **multi-agent** pipelines, and **LLM guardrails**—in **healthcare** & **ad-tech**, with applied **NLP** research @ **University of Arizona**.
+**AI Engineer** who ships **RAG**, **multi-agent** systems, and **LLM guardrails**. Recent work spans **healthcare** (answers grounded in **medical literature** and evidence), **ad-tech** (large-scale ML and content safety), and applied **NLP** research @ **University of Arizona**.
 
-Healthcare QA, scientific code agents, and production-minded ML.
+I also like systems where models **write and run code** to check scientific claims, not just describe them. Care about **reliable retrieval**, **safe outputs**, and **production** quality.
 
-Looking for full-time **AI/ML engineering** roles—**idea → production**.
+Looking for full-time **AI/ML engineering** roles.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
