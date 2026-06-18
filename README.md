@@ -6,7 +6,7 @@
 
 **AI engineer** · RAG, Agents & NLP · **M.S. Data Science** @ University of Arizona · Tucson, AZ
 
-[LinkedIn](https://www.linkedin.com/in/praagnya) · [Email](mailto:pnarasimha@arizona.edu) · [Website](https://praagnya.github.io)
+[LinkedIn](https://www.linkedin.com/in/praagnya) · [Email](mailto:pnarasimha@arizona.edu) 
 
 **AI Engineer** shipping production **LLM** systems: **RAG**, **multi-agent** workflows, and **guardrails**. Recent work spans **biomedical RAG** (answers tied to papers and clinical evidence), **ad-tech** (large-scale ML and content safety), and applied **NLP** research @ **University of Arizona**.
 
