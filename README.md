@@ -8,9 +8,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/praagnya) · [Email](mailto:pnarasimha@arizona.edu) 
 
-**AI Engineer** shipping production **LLM** systems: **RAG**, **multi-agent** workflows, and **guardrails**. Recent work spans **biomedical RAG** (answers tied to papers and clinical evidence), **ad-tech** (large-scale ML and content safety), and applied **NLP** research @ **University of Arizona**.
+**AI Engineer** shipping production **LLM** systems: **RAG**, **multi-agent** workflows, and **evaluation infrastructure**. Recent work spans **applied ML at Integral Ad Science** (large-scale brand safety and content classification), **RAG systems** for instructor-facing tools (**McGraw Hill**), and applied **NLP** research @ **University of Arizona**.
 
-I also build systems where models **write and run code** to check scientific claims, not just summarize them. I focus on **reliable retrieval**, **safe outputs**, and **production** quality.
+I also build systems where agents **generate, execute, and self-debug code** to verify scientific claims, not just summarize them — published at **ACL 2026** (CodeDistiller, DARPA-funded).
+
+I focus on **reliable retrieval**, **guarded generation**, and **production** quality: systems that don't just work in a demo, but hold up when real users depend on them.
 
 Looking for full-time **AI/ML engineering** roles.
 
