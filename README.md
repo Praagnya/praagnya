@@ -14,8 +14,6 @@ I also build systems where agents **generate, execute, and self-debug code** to 
 
 I focus on **reliable retrieval**, **guarded generation**, and **production** quality: systems that don't just work in a demo, but hold up when real users depend on them.
 
-Looking for full-time **AI/ML engineering** roles.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111?style=flat)
