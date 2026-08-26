@@ -10,9 +10,9 @@
 
 **AI Engineer** shipping production **LLM** systems: **RAG**, **multi-agent** workflows, and **evaluation infrastructure**. Recent work spans **applied ML at Integral Ad Science** (large-scale brand safety and content classification), **RAG systems** for instructor-facing tools (**McGraw Hill**), and applied **NLP** research @ **University of Arizona**.
 
-I also build systems where agents **generate, execute, and self-debug code** to verify scientific claims, not just summarize them — published at **ACL 2026** (CodeDistiller, DARPA-funded).
+I also build systems where agents **generate, execute, and self-debug code** to verify scientific claims — published at **ACL 2026** (CodeDistiller, DARPA-funded).
 
-I focus on **reliable retrieval**, **guarded generation**, and **production** quality: systems that don't just work in a demo, but hold up when real users depend on them.
+I focus on **reliable retrieval**, **guarded generation**, and **production** quality: systems that hold up when real users depend on them.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
